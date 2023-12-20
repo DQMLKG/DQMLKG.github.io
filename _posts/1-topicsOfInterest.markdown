@@ -1,5 +1,6 @@
 ---
 layout: default
+img : NULL
 category: Services
 title: Topics of interest
 id: topics

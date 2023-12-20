@@ -1,6 +1,7 @@
 ---
 layout: default
 category: Services
+img : NULL
 title: Important dates
 id: dates
 description: |

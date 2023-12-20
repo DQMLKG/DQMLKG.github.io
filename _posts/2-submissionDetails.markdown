@@ -1,5 +1,6 @@
 ---
 layout: default
+img : NULL
 category: Services
 title: Submission details
 id: submission
