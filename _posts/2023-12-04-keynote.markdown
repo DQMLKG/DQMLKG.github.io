@@ -1,9 +1,10 @@
 ---
 layout: default
-img: keynote.png
+#img: keynote.png
 category: Services
 title: Program details and Keynote
 id: program
 description: |
 ---
-  To be announced! 
+  Stay tuned!
+  The program will include an ![inspiring keynote](/assets/screenshot.jpg)
