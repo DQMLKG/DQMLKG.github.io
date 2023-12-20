@@ -3,7 +3,7 @@ layout: default
 img : NULL
 category: Services
 title: Submission details
-id: submission
+tag: submission
 description: |
 ---
 Submissions can fall in one of the following categories:
