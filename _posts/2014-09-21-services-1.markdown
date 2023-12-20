@@ -4,7 +4,7 @@ category: Services
 title: Topics of interest
 description: |
 ---
-  New approaches for performing <b> Data quality </b> assessment or improvement of Knowledge Graphs via Machine Learning
+  New approaches for performing <b> Data quality </b> assessment or improvement <b>of Knowledge Graphs via Machine Learning</b>
   - Quality assessment over the time
   - Scalability issues
   - Proactive approaches able to improve KG quality during the data authoring stage
