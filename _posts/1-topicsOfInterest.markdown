@@ -2,6 +2,7 @@
 layout: default
 category: Services
 title: Topics of interest
+id: topics
 description: |
 ---
   New approaches for performing <b> Data quality </b> assessment or improvement <b>of Knowledge Graphs via Machine Learning</b>

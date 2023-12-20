@@ -2,6 +2,7 @@
 layout: default
 category: Services
 title: Submission details
+id: submission
 description: |
 ---
 Submissions can fall in one of the following categories:
