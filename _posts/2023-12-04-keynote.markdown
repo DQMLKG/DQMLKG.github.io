@@ -4,7 +4,6 @@ img: keynote.png
 category: Services
 title: Program details and Keynote
 tag: program
-description: |
 ---
   The program will include an inspiring keynote!  Stay tuned!
 
