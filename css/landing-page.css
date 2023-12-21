@@ -167,4 +167,5 @@ p.copyright {
 
 td, th {
    border: none!important;
+   padding-left: 10px;
 }
