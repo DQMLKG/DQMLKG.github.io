@@ -97,6 +97,7 @@ h6 {
     padding: 10px 0;
     border-top: 1px solid #e7e7e7;
     border-bottom: 1px solid #e7e7e7;
+    text-align: right;
 }
 
 .section-heading {
@@ -168,4 +169,8 @@ p.copyright {
 td, th {
    border: none!important;
    padding:0 15px 0 0;
+}
+
+#about{
+    text-align: justify;
 }
