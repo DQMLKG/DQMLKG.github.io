@@ -3,7 +3,7 @@ layout: default
 category: Services
 img : NULL
 title: Organizers
-tag: organizers_and_PC
+tag: organizers
 description: |
 ---
 

@@ -3,7 +3,7 @@ layout: default
 category: Services
 img : NULL
 title: Program committee (tentative)
-tag: organizers_and_PC
+tag: PC
 ---
 
 - Anastasia Dimou
