@@ -1,6 +1,6 @@
 ---
 layout: default
-img: keynote.png
+#img: keynote.png
 category: Services
 title: Program details and Keynote
 tag: program
