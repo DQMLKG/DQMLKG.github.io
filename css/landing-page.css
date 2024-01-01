@@ -173,3 +173,7 @@ td, th {
 #about{
     text-align: justify;
 }
+
+.organizers{
+    border-radius: 50%;
+}
