@@ -16,8 +16,8 @@ We welcome contributions presenting
 - reviews of the state of the art, 
 - position papers critically discussing what is missing in this alliance, i.e., data quality, ML and KG.
 
-Papers must comply with the [CEUR-WS](http://ceur-ws.org/Vol-XXX/CEURART.zip) template
-Papers are submitted in PDF format via the workshop’s Open Review submission pages
+Papers must comply with the [CEUR-WS](http://ceur-ws.org/Vol-XXX/CEURART.zip) template.
+Papers are submitted in PDF format via the workshop’s [Open Review submission page](https://openreview.net/group?id=eswc-conferences.org/ESWC/2024/Workshop/DQMLKG).
 
 Accepted papers (after blind review of at least 3 experts) will be published by CEUR–WS.
 
