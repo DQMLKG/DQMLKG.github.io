@@ -6,17 +6,19 @@ title: Program committee
 tag: pc
 ---
 
-Coming soon!
+- Cinzia Cappiello, Polytechnic of Milan, Italy
+- Jeremy Debattista, Trinity College Dublin, Ireland
+- Anastasia Dimou, Katholieke Universiteit, Leuven
+- Paul Groth, University of Amsterdam, Holland
+- Ernesto Jiménez-Ruiz, University of London, England
+- Blerina Spahiu, University of Milan, Italy
+
 
 <!-- 
-- Anastasia Dimou
-- Ernesto Jiménez-Ruiz 
+
 - Heiko Paulheim
-- Cinzia Cappiello 
-- Jeremy Debattista
 - Elena Simperl
 - Maribel Acosta
-- Blerina Spahiu
 - Axel Polleres
-- Paul Groth 
+
 -->
