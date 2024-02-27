@@ -10,7 +10,7 @@ tag: pc
 - Jeremy Debattista, Trinity College Dublin, Ireland
 - Anastasia Dimou, Katholieke Universiteit, Leuven
 - Paul Groth, University of Amsterdam, Holland
-- Ernesto Jiménez-Ruiz, University of London, England
+- Ernesto Jiménez\-Ruiz, University of London, England
 - Blerina Spahiu, University of Milan, Italy
 
 
