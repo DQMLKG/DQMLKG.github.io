@@ -19,6 +19,6 @@ We welcome contributions presenting
 Papers must comply with the [CEUR-WS](http://ceur-ws.org/Vol-XXX/CEURART.zip) template.
 Papers are submitted in PDF format via the workshop’s [Open Review submission page](https://openreview.net/group?id=eswc-conferences.org/ESWC/2024/Workshop/DQMLKG).
 
-Accepted papers (after blind review of at least 3 experts) will be published by CEUR–WS.
+Accepted papers (after blind review of at least 2 experts) will be published by CEUR–WS.
 
-At least one of the authors of the accepted papers must register for the workshop (pre-conference only option) to be included into the workshop proceedings.
+At least one of the authors of the accepted papers must register for the workshop (pre-conference only option) to be included into the workshop proceedings. Information about registration can be found on the [ESWC 2024 official page](https://2024.eswc-conferences.org/registration).
