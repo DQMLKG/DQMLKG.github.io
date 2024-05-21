@@ -6,7 +6,7 @@ title: Program details and Keynote
 tag: program
 ---
 - 09:00 - 09:05 AM > Welcome Session
-- 09:05 - 10:05 AM > |KEYNOTE by _Elena Simperl_ |<img class="organizers" src="assets/Elena-Simperl.jpg" width="200">|
+- 09:05 - 10:05 AM > KEYNOTE by _Elena Simperl_ <img class="organizers" src="assets/Elena-Simperl.jpg" width="200">
 
  **Bio**: _Elena Simperl is a Professor of Computer at King’s College London and the Director of Research for the Open Data Institute (ODI). She is a Fellow of the British Computer Society and the Royal Society of Arts, and a Hans Fischer Senior Fellow. Elena’s work is at the intersection between AI and social computing. She features in the top 100 most influential scholars in knowledge engineering of the last decade and in the Women in AI 2000 ranking. She is the president of the Semantic Web Sciences Association._
 
