@@ -6,7 +6,11 @@ title: Program details and Keynote
 tag: program
 ---
 - 09:00 - 09:05 AM > Welcome Session
-- 09:05 - 10:05 AM > KEYNOTE by **Elena Simperl**
+- 09:05 - 10:05 AM > KEYNOTE by _Elena Simperl_ entitled **When stars align: studies in data quality, knowledge graphs, and machine learning**
+
+|<img class="organizers" src="assets/Elena-Simperl.jpg" width="200">|Elena Simperl is a Professor of Computer at King’s College London and the Director of Research for the Open Data Institute (ODI). She is a Fellow of the British Computer Society and the Royal Society of Arts, and a Hans Fischer Senior Fellow. Elena’s work is at the intersection between AI and social computing. She features in the top 100 most influential scholars in knowledge engineering of the last decade and in the Women in AI 2000 ranking. She is the president of the Semantic Web Sciences Association.|
+|In this talk I will present several projects that tease out the intricate relationship between these three fields of research to produce better AI datasets and, with that, better AI models and downstream applications. I will start with work in knowledge graphs, which are machine-readable structured data representations, organised for general-purpose use. Besides data integration, they are extensively used in search engines, recommender systems, virtual assistants and other AI contexts, commonly as a source of domain knowledge and explanations. I propose sociotechnical methods, drawing on machine learning and other techniques, to understand biases, improve the quality, and increase people's trust in knowledge graphs. Then I will move to ongoing work on assuring any type of AI dataset, using semantic technologies. I will introduce the data-centric AI programme at the Open Data Institute and deep dive into Croissant, a schema.org-based vocabulary to describe AI datasets to improve their quality and reuse.|
+
 - 10:05 - 10:30 AM > Stefani Tsaneva, Stefan Vasic, Marta Sabou. ''*LLM-driven Ontology Evaluation: Verifying Ontology Restrictions with ChatGPT*''
 - 10:30 - 11:00 AM > Coffee Break
 - 11:00 - 11:25 AM > Jose Emilio Labra Gayo. ''*Extending Shape Expressions for different types of knowledge graphs*''
@@ -14,3 +18,33 @@ tag: program
 - 11:40 - 11:55 AM > Pasquale Esposito. ''*The Linguistic Linked Open Data through the Linguists' Lens*''
 - 12:00 - 12:30 PM > Panel (Elena, Anastasia, Heiko, Paul)
 
+
+
+
+ 
+
+Title: 
+
+ 
+
+Abstract:
+
+ 
+
+
+
+ 
+
+Professor Elena Simperl, FBCS, FRSA
+
+King’s College London
+
+Department of Informatics
+
+email: elena.simperl@kcl.ac.uk
+
+phone: +44 20 7848 2833
+
+twitter: https://twitter.com/esimperl 
+
+www: http://elenasimperl.eu
