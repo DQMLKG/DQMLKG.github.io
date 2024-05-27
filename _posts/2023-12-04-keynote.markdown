@@ -19,6 +19,6 @@ tag: program
 - 10:05 - 10:30 AM > Stefani Tsaneva, Stefan Vasic, Marta Sabou. ''*LLM-driven Ontology Evaluation: Verifying Ontology Restrictions with ChatGPT*'' - [paper](assets/paper_1.pdf) 
 - 10:30 - 11:00 AM > Coffee Break
 - 11:00 - 11:25 AM > Jose Emilio Labra Gayo. ''*Extending Shape Expressions for different types of knowledge graphs*'' - [paper](assets/paper_2.pdf) 
-- 11:25 - 11:40 AM > Gabriele Tuozzo. ''*Moving from Tabular Knowledge Graph Quality Assessment to RDF Triples Leveraging ChatGPT*'' - [paper](assets/paper_3.pdf) 
-- 11:40 - 11:55 AM > Pasquale Esposito. ''*The Linguistic Linked Open Data through the Linguists' Lens*'' - [paper](assets/paper_4.pdf) 
+- 11:25 - 11:40 AM > Gabriele Tuozzo. ''*Moving from Tabular Knowledge Graph Quality Assessment to RDF Triples Leveraging ChatGPT*'' - [paper](assets/paper_3.pdf) - [slides](assets/slides_3.pdf) 
+- 11:40 - 11:55 AM > Pasquale Esposito. ''*The Linguistic Linked Open Data through the Linguists' Lens*'' - [paper](assets/paper_4.pdf) - [slides](assets/slides_4.pdf) 
 - 12:00 - 12:30 PM > Panel (Elena, Anastasia, Heiko, Paul)
