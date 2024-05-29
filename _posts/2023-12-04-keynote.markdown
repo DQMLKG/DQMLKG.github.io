@@ -16,6 +16,8 @@ tag: program
 
 **Abstract**: In this talk I will present several projects that tease out the intricate relationship between these three fields of research to produce better AI datasets and, with that, better AI models and downstream applications. I will start with work in knowledge graphs, which are machine-readable structured data representations, organised for general-purpose use. Besides data integration, they are extensively used in search engines, recommender systems, virtual assistants and other AI contexts, commonly as a source of domain knowledge and explanations. I propose sociotechnical methods, drawing on machine learning and other techniques, to understand biases, improve the quality, and increase people's trust in knowledge graphs. Then I will move to ongoing work on assuring any type of AI dataset, using semantic technologies. I will introduce the data-centric AI programme at the Open Data Institute and deep dive into Croissant, a schema.org-based vocabulary to describe AI datasets to improve their quality and reuse.
 
+**Slides**: Slides are available online at the following [link](https://www.slideshare.net/slideshow/when-stars-align-studies-in-data-quality-knowledge-graphs-and-machine-learning/269397197)
+
 - 10:05 - 10:30 AM > Stefani Tsaneva, Stefan Vasic, Marta Sabou. ''*LLM-driven Ontology Evaluation: Verifying Ontology Restrictions with ChatGPT*'' - [paper](assets/paper_1.pdf) 
 - 10:30 - 11:00 AM > Coffee Break
 - 11:00 - 11:25 AM > Jose Emilio Labra Gayo. ''*Extending Shape Expressions for different types of knowledge graphs*'' - [paper](assets/paper_2.pdf) 
