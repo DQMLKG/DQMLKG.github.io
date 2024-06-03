@@ -18,7 +18,7 @@ tag: program
 
 **Slides**: Slides are available online at the following [link](https://www.slideshare.net/slideshow/when-stars-align-studies-in-data-quality-knowledge-graphs-and-machine-learning/269397197)
 
-- 10:05 - 10:30 AM > Stefani Tsaneva, Stefan Vasic, Marta Sabou. ''*LLM-driven Ontology Evaluation: Verifying Ontology Restrictions with ChatGPT*'' - [paper](assets/paper_1.pdf) 
+- 10:05 - 10:30 AM > Stefani Tsaneva, Stefan Vasic, Marta Sabou. ''*LLM-driven Ontology Evaluation: Verifying Ontology Restrictions with ChatGPT*'' - [paper](assets/paper_1.pdf) - [slides](assets/slides_1.pdf) 
 - 10:30 - 11:00 AM > Coffee Break
 - 11:00 - 11:25 AM > Jose Emilio Labra Gayo. ''*Extending Shape Expressions for different types of knowledge graphs*'' - [paper](assets/paper_2.pdf) 
 - 11:25 - 11:40 AM > Gabriele Tuozzo. ''*Moving from Tabular Knowledge Graph Quality Assessment to RDF Triples Leveraging ChatGPT*'' - [paper](assets/paper_3.pdf) - [slides](assets/slides_3.pdf) 
